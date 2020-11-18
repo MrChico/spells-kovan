@@ -2,7 +2,7 @@ pragma solidity 0.5.12;
 
 import "ds-math/math.sol";
 import "ds-test/test.sol";
-import "lib/dss-interfaces/src/Interfaces.sol";
+import "lib/dss-exec-lib/lib/dss-interfaces/src/Interfaces.sol";
 import "./test/rates.sol";
 
 import {DssSpell, SpellAction} from "./Kovan-DssSpell.sol";
